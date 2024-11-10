@@ -1,4 +1,4 @@
-package com.dicoding.picodiploma.mycamera
+package com.dicoding.picodiploma.mymediapipeimageclassification
 
 import android.os.Build
 import android.os.Bundle
@@ -14,7 +14,7 @@ import androidx.camera.core.resolutionselector.AspectRatioStrategy
 import androidx.camera.core.resolutionselector.ResolutionSelector
 import androidx.camera.lifecycle.ProcessCameraProvider
 import androidx.core.content.ContextCompat
-import com.dicoding.picodiploma.mycamera.databinding.ActivityCameraBinding
+import com.dicoding.picodiploma.mymediapipeimageclassification.databinding.ActivityCameraBinding
 import com.google.mediapipe.tasks.components.containers.Classifications
 import java.text.NumberFormat
 import java.util.concurrent.Executors

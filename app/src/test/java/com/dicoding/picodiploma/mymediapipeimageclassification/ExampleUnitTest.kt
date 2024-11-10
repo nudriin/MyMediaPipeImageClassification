@@ -1,4 +1,4 @@
-package com.dicoding.picodiploma.mycamera
+package com.dicoding.picodiploma.mymediapipeimageclassification
 
 import org.junit.Test
 

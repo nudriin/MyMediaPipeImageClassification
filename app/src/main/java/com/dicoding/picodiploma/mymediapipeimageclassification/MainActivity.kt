@@ -1,4 +1,4 @@
-package com.dicoding.picodiploma.mycamera
+package com.dicoding.picodiploma.mymediapipeimageclassification
 
 import android.Manifest
 import android.content.Intent
@@ -12,8 +12,8 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.core.net.toUri
-import com.dicoding.picodiploma.mycamera.CameraActivity.Companion.CAMERAX_RESULT
-import com.dicoding.picodiploma.mycamera.databinding.ActivityMainBinding
+import com.dicoding.picodiploma.mymediapipeimageclassification.CameraActivity.Companion.CAMERAX_RESULT
+import com.dicoding.picodiploma.mymediapipeimageclassification.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

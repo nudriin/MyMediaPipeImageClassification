@@ -1,10 +1,10 @@
-package com.dicoding.picodiploma.mycamera
+package com.dicoding.picodiploma.mymediapipeimageclassification
 
 import android.net.Uri
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.dicoding.picodiploma.mycamera.databinding.ActivityResultBinding
+import com.dicoding.picodiploma.mymediapipeimageclassification.databinding.ActivityResultBinding
 
 class ResultActivity : AppCompatActivity() {
 
